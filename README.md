@@ -8,4 +8,7 @@
 
 ### Card things
 
-[![pronouns.page card](https://pronouns-page.s3.eu-west-1.amazonaws.com/card/en/ashhhleyyy-01FPMHDQ9S6GFGCTPWJD4D367X-dark.png)](https://pronouns.page/@ashhhleyyy)
+[
+![pronouns.page card](https://pronouns-page.s3.eu-west-1.amazonaws.com/card/en/ashhhleyyy-01FVJSXJE21PF954CTBFKZG024.png#gh-light-mode-only)
+![pronouns.page card](https://pronouns-page.s3.eu-west-1.amazonaws.com/card/en/ashhhleyyy-01FS831KXGPD1RTXCPP5KECK7S-dark.png#gh-dark-mode-only)
+](https://pronouns.page/@ashhhleyyy)
