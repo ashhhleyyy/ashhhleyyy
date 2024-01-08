@@ -11,4 +11,4 @@ I'm Ash(hh)ley(yy):
 - where I use [she/they](https://en.pronouns.page/@ashhhleyyy) pronouns.
 - I also have a [website](https://ashhhleyyy.dev).
 
-[![pronouns.page card](https://pronouns-page.s3.eu-west-1.amazonaws.com/card/en/ashhhleyyy-01GCFJ011GTARYD3NSQQ3B4CJK-dark.png)](https://pronouns.page/@ashhhleyyy)
+[![pronouns.page card](https://pronouns-page.s3.eu-west-1.amazonaws.com/card/en/ashhhleyyy-01HKNBPGXQZH6Q5ABWDAVJ7W38-dark.png)](https://pronouns.page/@ashhhleyyy)
