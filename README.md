@@ -6,7 +6,7 @@ I'm Ash(hh)ley(yy):
 - which I program in Rust, Kotlin, Java and TypeScript.
 - I exist in a few other places on the interwebs:
   - [Matrix: `@ash:shorks.gay`](https://matrix.to/#/@ash:shorks.gay)
-  - [The Fediverse: `@ash@fedi.ashhhleyyy.dev`](https://fedi.ashhhleyyy.dev/ash)
+  - [The Fediverse: `@ash@shorks.gay`](https://fedi.shorks.gay/@ash)
 
 - where I use [she/they](https://en.pronouns.page/@ashhhleyyy) pronouns.
 - I also have a [website](https://ashhhleyyy.dev).
