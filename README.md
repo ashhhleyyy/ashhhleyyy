@@ -5,7 +5,7 @@ I'm Ash(hh)ley(yy):
 - I make Minecraft mods and backend-y/web things,
 - which I program in Rust, Kotlin, Java and TypeScript.
 - I exist in a few other places on the interwebs:
-  - [Matrix: `@ashhhleyyy:the-apothecary.club`](https://matrix.to/#/@ashhhleyyy:the-apothecary.club)
+  - [Matrix: `@ash:shorks.gay`](https://matrix.to/#/@ash:shorks.gay)
   - [The Fediverse: `@ash@fedi.ashhhleyyy.dev`](https://fedi.ashhhleyyy.dev/ash)
 
 - where I use [she/they](https://en.pronouns.page/@ashhhleyyy) pronouns.
